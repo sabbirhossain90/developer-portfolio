@@ -116,6 +116,10 @@
 }
 .resume-container{
     display: flex;
+    background-color:darkgrey;
+    padding: 20px;
+    margin: 120px;
+    
 }
 .resume-colum-title{
     font-size: 40px;
@@ -123,4 +127,8 @@
 }
 hr{
     width: 80%;
+}
+.foot{
+    text-align: center;
+    font-weight: bold;
 }
