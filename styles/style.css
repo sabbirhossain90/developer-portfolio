@@ -1,0 +1,26 @@
+.menu-iteam{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: #098dd9;
+}
+.developer-menus{
+    display: flex;
+}
+.iteam{
+    list-style: none;
+    margin: 20px
+    ;
+    font-weight:bold;
+}
+.holud{
+    color: #c7d909;
+}
+.head{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:20px;
+}
+.btn1{
+    background-color: coral;
+    box-shadow: 10px sandybrown;
+}
