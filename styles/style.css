@@ -35,7 +35,7 @@
 .banner{
     display: flex;
     align-items: center;
-    background-image: url(./header_bg.png);
+    background-image: url(/header_bg.png);
     background-repeat: no-repeat;
     background-position: bottom right;
     justify-content: space-between;
@@ -70,13 +70,15 @@
 
 }
 .About{
-    padding: 100px;
+    
     background-color: antiquewhite;
-    margin:120px;
+    margin-left: 260px;
     text-align: center;
     align-items: center;
     max-width: 1140px;
     justify-content: center;
+    padding: 100px;
+    margin-top: 150px;
     
 }
 .about-info{
